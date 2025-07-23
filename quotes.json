@@ -1,0 +1,29 @@
+[
+  { "quote": "Be yourself; everyone else is already taken.", "author": "Oscar Wilde" },
+  { "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.", "author": "Winston Churchill" },
+  { "quote": "In the middle of difficulty lies opportunity.", "author": "Albert Einstein" },
+  { "quote": "Do one thing every day that scares you.", "author": "Eleanor Roosevelt" },
+  { "quote": "Dream big and dare to fail.", "author": "Norman Vaughan" },
+
+  { "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston Churchill" },
+  { "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs" },
+  { "quote": "Believe you can and you’re halfway there.",
+    "author": "Theodore Roosevelt" },
+  { "quote": "Don’t watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson" },
+  { "quote": "Dream big and dare to fail.",
+    "author": "Norman Vaughan" },
+  { "quote": "Life is 10% what happens to me and 90% how I react to it.",
+    "author": "Charles R. Swindoll" },
+  { "quote": "In the middle of every difficulty lies opportunity.",
+    "author": "Albert Einstein" },
+  { "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker" },
+  { "quote": "It always seems impossible until it’s done.",
+    "author": "Nelson Mandela" },
+  { "quote": "Do not wait to strike till the iron is hot, but make it hot by striking.",
+    "author": "William Butler Yeats" }
+
+]
